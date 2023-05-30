@@ -6,10 +6,8 @@
 Here's a brief overview of the repositories you'll find here:
 
 - Noushin-FYP: A full stack decentralised web ticketing application created for my final year dissertation.
-
-- loco: Location based attendance tracking app created for a group project in my second year of university.
-
-- Assignments:  Includes a range of assignments completed during my studies using both Python and Java.
+<br />- loco: Location based attendance tracking app created for a group project in my second year of university.
+<br />- Assignments:  Includes a range of assignments completed during my studies using both Python and Java.
 
 Thank you!
 
