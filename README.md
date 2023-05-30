@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Noushin Islam 👋
+- 🔭 I’m currently studying Computer Science at the University of Liverpool.
+- 🌱 I’m currently interested in Blockchain concepts, Solidity and Full Stack Development.
 
-<!--
-**nouisl/nouisl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+Here's a brief overview of the repositories you'll find here:
 
-Here are some ideas to get you started:
+- Noushin-FYP
+Description: A full stack decentralised web ticketing application created for my final year dissertation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- loco
+Description: Location based attendance tracking app created for a group project in my second year of university.
+
+- Assignments
+Description: 
+
+Thank you!
+
