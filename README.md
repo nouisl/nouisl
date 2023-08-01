@@ -1,5 +1,5 @@
 ## Hi, I'm Noushin Islam 👋
-- 🔭 I’m currently studying Computer Science at the University of Liverpool.
+- 🔭 I recently graduated from the University of Liverpool with a BSc in Computer Science achieving First Class Honours.
 - 🌱 I’m currently interested in Blockchain concepts, Solidity and Full Stack Development.
 
 ### Projects
