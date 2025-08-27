@@ -5,6 +5,7 @@
 
 ### Projects
 Here's a brief overview of the repositories you'll find here:
+<br />- COMP66060: A fully decentralised document signing application created for my master's project.
 <br />- Noushin-FYP: A full stack decentralised web ticketing application created for my undergraduate final year dissertation.
 <br />- loco: Location-based attendance tracking app created for a group project in my second year of university.
 <br />- Assignments:  Includes a range of assignments completed during my studies using both Python and Java.
