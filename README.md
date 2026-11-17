@@ -1,7 +1,7 @@
 ## Hi, I'm Noushin Islam 👋
-- 📚 Currently, I'm pursuing an MSc in Advanced Computer Science at the University of Manchester.
-- 🔭 I graduated from the University of Liverpool with a BSc in Computer Science, achieving First Class Honours.
-- 🌱 I’m interested in Blockchain concepts, Artificial Intelligence and Full Stack Development.
+- 👩‍💻 Currently working as a Software Engineer at Lloyds Banking Group, specialising in AI Engineering and agentic AI solutions.
+- 🎓 I graduated from the University of Manchester with an MSc in Advanced Computer Science, achieving Distinction, and the University of Liverpool with a BSc in Computer Science, achieving First Class Honours.
+- 🌱 I'm interested in Artificial Intelligence, Agentic Systems, Blockchain and Full Stack Development.
 
 ### Projects
 Here's a brief overview of the repositories you'll find here:
